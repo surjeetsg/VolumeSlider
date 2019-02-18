@@ -56,10 +56,6 @@ StepSlider can be fully customised by any of this properties:
 
 ## Installation
 
-### CocoaPods
-
-Add `pod 'VolumeSlider'` to your Podfile. 
-
 ### Manual Installation
 
 Just copy `VolumeSlider` class to your project.
